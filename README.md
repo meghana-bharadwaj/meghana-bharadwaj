@@ -1,6 +1,94 @@
-# Hello, I'm Meghana Ananda! 👋
+# Hi, I'm Meghana Ananda! 👋
 
-Welcome to my GitHub profile! I am a skilled software developer and data scientist with a strong focus on leveraging **Machine Learning** and **Data Science** to build impactful solutions. With a passion for problem-solving and a proven track record of success across diverse domains, I aim to bridge the gap between technology and business value.
+**🚀 Machine Learning Engineer | Data Scientist**  | 
+🎓 Master's in **Data Science & Machine Learning** – IIT Madras 
+
+📌 Passionate about **AI, Deep Learning, and Data-Driven Solutions**  
+
+---
+
+### 🛠 **Tech Stack & Skills**
+
+#### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=oracle&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+#### **Libraries and Frameworks**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-FF4081?style=for-the-badge&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF4500?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+#### **Methodologies**  
+- Agile, SDLC, Product Management
+
+#### **Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Tortoise SVN](https://img.shields.io/badge/Tortoise_SVN-80B3FF?style=for-the-badge&logo=subversion&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-47A248?style=for-the-badge&logo=githubactions&logoColor=white)
+
+#### **Soft Skills**  
+- Problem-Solving, Collaboration, Communication, Leadership
+
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
+  - Linear Regression  
+  - Logistic Regression
+  - Support Vector Machines (SVM)
+  - Decision Trees (DT)
+  - Random Forests (RF)
+  - K-Nearest Neighbors (KNN)
+  - Deep Neural Networks
+  - Convolutional Neural Networks (CNN)
+  - Recurrent Neural Networks (RNN)
+  - Naive Bayes (NB)
+  - Gradient Boosted Decision Trees (GBDT)
+  - XGBoost
+  - Long Short-Term Memory (LSTM)
+
+🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects:
+  - Auto-Regressive (AR) Model
+  - Auto-Regressive Moving Averages (ARMA) Model
+  - Auto-Regressive Integrated Moving Averages (ARIMA) Model
+  - Neural Hierarchical Interpolation of Time Series (N-HiTS) Model
+  - Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model
+---
+
+💡 **What I Do**
+
+🔹Machine Learning & AI 🤖 – Designing and deploying predictive models.
+
+🔹 Natural Language Processing (NLP) 🗣️ – Building LLM-powered applications, text classification, and sentiment analysis.
+
+🔹 Deep Learning & Computer Vision 🖼️ – Image processing, object detection, and generative AI.
+
+🔹 MLOps & Model Deployment ☁️ – Scaling AI applications using AWS | GCP | Docker | Kubernetes.
+
+---
+
+🎯 **Why You Should Work With Me**
+
+✅ Expertise in end-to-end ML development – from data wrangling to model deployment.
+
+✅ Proficient in Python, TensorFlow, PyTorch, and Scikit-learn.
+
+✅ Strong software engineering mindset – writing optimized, scalable, and production-ready ML code.
+
+✅ Passionate about AI research, open-source contributions, and continuous learning.
 
 ---
 
@@ -21,12 +109,11 @@ Welcome to my GitHub profile! I am a skilled software developer and data scienti
   - Indian Institute of Technology, Madras (2021 - 2022)  
   - Courses: Probability and Statistics, Statistical Modeling, Deep Learning, and Machine Intelligence.  
 - **Bachelor of Engineering in Computer Science**  
-  - Visvesvaraya Technological University (2015 - 2019)  
-  - GPA: 8.5  
+  - Visvesvaraya Technological University (2015 - 2019)    
 
 ---
-
-## 🛠️ Featured Machine Learning Projects
+📌 Check out my repositories – always open to collaborations, discussions, and exciting opportunities!
+---
 
 Here are some of my Machine Learning projects that demonstrate my skills and expertise:
 
@@ -64,21 +151,6 @@ Feel free to explore these repositories to see detailed implementations and meth
 
 ---
 
-## 🔧 Technical Skills
-
-### Programming
-- **Python**   
-- **Java**, **Git**, **SQL**, **PL/SQL**
-
-### Data Science & Machine Learning
-- **Statistical Modeling**, **Predictive Analytics**, **Deep Learning**, **Data Science**  
-- **ML Techniques**: Regression Models, Random Forests, Gradient Boosted Trees, NLP, Transformers, and more.
-
-### Frameworks & Tools
-- **Keras**, **TensorFlow**, **PyTorch**, **Scikit-Learn**, **XGBoost**, **Flask**
-
----
-
 ## 🌱 Currently Exploring
 - Advanced techniques in Generative AI and Transformer models.  
 - Practical applications of NLP and deployment of AI-driven systems.  
@@ -87,7 +159,11 @@ Feel free to explore these repositories to see detailed implementations and meth
 ---
 
 ## 🤝 Let’s Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/meghana-ananda/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/meghana-ananda/)
+***🚀 Let’s Build AI That Matters!***
 ---
 
 I am always eager to collaborate on meaningful projects, solve challenging problems, and deliver data-driven solutions that make a difference. Let’s connect and innovate together!
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=meghana-bharadwaj&color=blue&style=flat)
